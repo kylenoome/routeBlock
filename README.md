@@ -8,7 +8,7 @@
 
 
 
-<p align="center"> Web3 Url website.
+<p align="center"> Introducing a revolutionary way to access web3 URLs with ease and simplicity! With our web3 website powered by Solidity smart contracts, you can now purchase web3 URLs with memorable and easy-to-remember names like "kyle.eth" instead of complicated and forgettable tags like "0x70997970C51812dc3A010C7d01b50e0d17dc79C8".
     <br>
 </p>
 
