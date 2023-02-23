@@ -10,6 +10,10 @@
     <br>
 </h4>
 
+<h4 align="center"> Our solution offers a user-friendly way to access web3 content without the hassle of remembering and typing out long, complex tags. Say goodbye to frustration and confusion and hello to a streamlined and effortless experience with our web3 website. Try it out today and experience the convenience for yourself!
+    <br>
+</h4>
+
 ---
 
 <p align="center">
@@ -26,17 +30,14 @@
 
 ### 🧠 Problem Statement <a name = "problem_statement"></a>
 
-Most of all repository badge list was already preset with a default styling and didn't give the user the ability to customize freely.
-
+    1.Complex and difficult-to-remember web3 URLs.
+    2.Unauthorized or fraudulent transfer of web3 URL ownership.
+    3.Limited adoption and accessibility of web3 technology.
+	
 ### 💡 Idea / Solution <a name = "idea"></a>
 
-To solve this problem, the website I created shows all the badges in real-time with a configuration section, so users can have fast visual feedback while customizing.
+This solution addresses the problem of user-unfriendly web3 URLs, which can be long and complex to remember and type correctly. By using Solidity smart contracts to sell web3 URLs with easy-to-remember names, users can easily access web3 content without the need to remember long, complex tags. This can improve the user experience and make it easier for people to engage with web3 content, potentially leading to wider adoption of web3 technology. Additionally, the use of Solidity smart contracts can provide a secure and transparent way to sell and transfer web3 URLs, which can help to prevent fraudulent or unauthorized transfers of ownership.
 
-Using mainly the technologies Next.JS and Tailwind.css for the project, I'm incredibly thankful for all of the libraries creators I used on this project, like Zustand for storing states, RadixUI for accessible components, superjson for easy communication between client side and server side, fuzzysort to search on lists, SWR for fast fetching and infinity scrolling support along react-infinite-scroll-component.
-
-<div align="center">
-	<img src=".github/images/Mockups.png" alt="Project mockups"/>
-</div>
 
 ## 🏁 Getting Started <a name = "started"></a>
 
@@ -45,7 +46,6 @@ Using mainly the technologies Next.JS and Tailwind.css for the project, I'm incr
 Prerequisites for this project are:
 
 - Node.js version 12.22.0 or later
-- MacOS, Windows (including WSL), and Linux are supported
 
 ### ✨ Installing
 
