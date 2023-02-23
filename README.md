@@ -1,16 +1,14 @@
-# routeBlock
-
 <p align="center">
 	<img alt="Website" src="image/screenshot-2023-02-23_11:30:11.png"> </img>
 	<h1 align="center">routeBlock</h3>
-	<h4> Please note that this is a test project and not intended to be deployed to production. It serves as a demonstration of the potential benefits of using Solidity smart contracts to sell web3 URLs with easy-to-remember names. </h4>
+	<p> Please note that this is a test project and not intended to be deployed to production. It serves as a demonstration of the potential benefits of using Solidity smart contracts to sell web3 URLs with easy-to-remember names. </p>
 </p>
 
 
 
-<p align="center"> Introducing a revolutionary way to access web3 URLs with ease and simplicity! With our web3 website powered by Solidity smart contracts, you can now purchase web3 URLs with memorable and easy-to-remember names like "kyle.eth" instead of complicated and forgettable tags like "0x70997970C51812dc3A010C7d01b50e0d17dc79C8".
+<h4 align="center"> Introducing a revolutionary way to access web3 URLs with ease and simplicity! With our web3 website powered by Solidity smart contracts, you can now purchase web3 URLs with memorable and easy-to-remember names like "kyle.eth" instead of complicated and forgettable tags like "0x70997970C51812dc3A010C7d01b50e0d17dc79C8".
     <br>
-</p>
+</h4>
 
 ---
 
