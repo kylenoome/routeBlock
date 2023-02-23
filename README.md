@@ -21,7 +21,6 @@
  <a href="#started">Getting started</a> •
  <a href="#built_using">Technologies</a> •
  <a href="#authors">Authors</a> •
- <a href="#acknowledgement">Acknowledgements</a>
 </p>
 
 ---
@@ -79,7 +78,7 @@ npx run start start
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
-# Hardhat
+and Hardhat
 
 	
 ### Tools
@@ -91,14 +90,6 @@ npx run start start
 
 - [@kylenoome](https://github.com/kylenoome) - Creator of this project
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- [@Shields.io](https://github.com/badges) - For the awesome badges
-- [@Simple Icons](https://github.com/simple-icons) - For the awesome icons
-- [@Casper](https://github.com/vn7n24fzkq) - For the awesome summary cards
-- [@ryo-ma](https://github.com/ryo-ma) - For the awesome github trophies
-- [@Anurag Hazra](https://github.com/anuraghazra) - For the awesome github stat cards
-- [@Jonah Lawrence](https://github.com/DenverCoder1) - For the awesome github streak cards and custom icon badges
 
 ## © License
 
