@@ -54,7 +54,7 @@ A step-by-step to install and run the project locally.
 1. Clone the project using the following command or install the zip:
 
 ```
-git clone [https://github.com/Hiyudev/github-enchanter-list.git](https://github.com/kylenoome/routeBlock.git)
+git clone https://github.com/kylenoome/routeBlock.git
 ```
 
 2. Install all the dependencies:
@@ -76,10 +76,12 @@ npx run start start
 ### Technologies
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-Solidity
-Javascript
-Hardhat
-Ethers.js 
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=flat-square)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+# Hardhat
+
+	
 ### Tools
 
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
