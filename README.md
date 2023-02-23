@@ -1,7 +1,7 @@
 <p align="center">
 	<h5 align="center"> Please note that this is a test project and not intended to be deployed to production. It serves as a demonstration of the 	potential benefits of using Solidity smart contracts to sell web3 URLs with easy-to-remember names. </h5>
 	<img alt="Website" src="image/screenshot-2023-02-23_11:30:11.png"> </img>
-	<h1 align="center"> |====routeBlock====| </h3>
+	<h1 align="center"> |==== routeBlock ====| </h3>
 </p>
 
 
